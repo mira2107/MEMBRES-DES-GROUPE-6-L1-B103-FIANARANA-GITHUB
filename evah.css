@@ -1,0 +1,28 @@
+body{
+  background: lightpink;
+  
+  font-family: times new reman,time, sans-serif;
+  background: ;
+  neight:100vh;
+  align-items: center;
+}
+img{
+  padding:10px;
+  margin: 10px;
+  border-radius: 10%;
+  width:150px;
+  height:150px;
+  border: 10px black;
+  border-radius: 10px black;
+}
+
+p{
+  text-align: center;
+  
+}
+h1{
+  text-align: center;
+  text-shadow: 1px 2px red;
+}
+
+
