@@ -1,0 +1,26 @@
+h2{align-content: ceter;
+    color: blue}
+body{
+    text-align: justify;
+    margin-top: 50px;
+    background: antiquewhite; 
+}
+ul{text-align: justify}
+a{color: blue}
+profil{text-align: justify}
+h3{background-color: beige;
+    text-align: justify;}
+body{background: url("neige.png");
+    text-align: center;
+    margin-top: 50px;
+    font-family: arial, sans serif;
+background: linear-gradient(antiquewhite);}
+img{border: 3px soli;
+    width: 180px;
+    heigth: 180px;
+    border-radius: 10%;
+background: top right;}
+html{color: black;
+    margin-top: 50px;}
+profil{text-align: center}
+
