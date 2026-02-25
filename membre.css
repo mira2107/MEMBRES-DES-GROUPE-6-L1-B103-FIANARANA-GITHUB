@@ -95,11 +95,13 @@ h2{
 display:flex;
 overflow:hidden;
 width:300px;
+  height: 350px;
 margin:auto;
 }
 
 .slider img{
-width:300px;
+width:350px;
+  height:350px;
 animation:slide 20s infinite;
 }
 
