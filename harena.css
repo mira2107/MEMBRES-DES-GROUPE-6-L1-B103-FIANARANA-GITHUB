@@ -1,0 +1,48 @@
+body{
+  margin:0;
+  background-image:mintCream ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  font-family: times new roman, time, sans serif;
+}
+p{
+  background: white;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  text-shadow: 2px 2px blue;
+}
+img{
+  border: 2px solid black;
+  border-radius: 10%;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  height: 250px;
+  objet-fit: cover;
+  border-bottom-color: cornsilk;
+}
+section{
+background: mistyrose;
+padding: 5px;
+margin: 5px;
+  border-radius: 15px;
+text-align: left;
+  border : 5px solid black;
+}
+h1{
+  color:deeppink;
+  text-aling:center;
+  text-shadow:1px 2px blanck; 
+  
+}
+footer{
+  background-color: navy;
+  text-align: center;
+  color: yellow;
+}
